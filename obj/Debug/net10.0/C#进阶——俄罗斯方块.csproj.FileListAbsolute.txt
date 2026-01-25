@@ -1,0 +1,28 @@
+D:\桌面\C#进阶\C#进阶——俄罗斯方块\obj\Debug\net10.0\C#进阶——俄罗斯方块.GeneratedMSBuildEditorConfig.editorconfig
+D:\桌面\C#进阶\C#进阶——俄罗斯方块\obj\Debug\net10.0\C#进阶——俄罗斯方块.AssemblyInfoInputs.cache
+D:\桌面\C#进阶\C#进阶——俄罗斯方块\obj\Debug\net10.0\C#进阶——俄罗斯方块.AssemblyInfo.cs
+D:\桌面\C#进阶\C#进阶——俄罗斯方块\obj\Debug\net10.0\C#进阶——俄罗斯方块.csproj.CoreCompileInputs.cache
+D:\桌面\C#进阶\C#进阶——俄罗斯方块\bin\Debug\net10.0\C#进阶——俄罗斯方块.exe
+D:\桌面\C#进阶\C#进阶——俄罗斯方块\bin\Debug\net10.0\C#进阶——俄罗斯方块.deps.json
+D:\桌面\C#进阶\C#进阶——俄罗斯方块\bin\Debug\net10.0\C#进阶——俄罗斯方块.runtimeconfig.json
+D:\桌面\C#进阶\C#进阶——俄罗斯方块\bin\Debug\net10.0\C#进阶——俄罗斯方块.dll
+D:\桌面\C#进阶\C#进阶——俄罗斯方块\bin\Debug\net10.0\C#进阶——俄罗斯方块.pdb
+D:\桌面\C#进阶\C#进阶——俄罗斯方块\obj\Debug\net10.0\C#进阶——俄罗斯方块.dll
+D:\桌面\C#进阶\C#进阶——俄罗斯方块\obj\Debug\net10.0\refint\C#进阶——俄罗斯方块.dll
+D:\桌面\C#进阶\C#进阶——俄罗斯方块\obj\Debug\net10.0\C#进阶——俄罗斯方块.pdb
+D:\桌面\C#进阶\C#进阶——俄罗斯方块\obj\Debug\net10.0\C#进阶——俄罗斯方块.genruntimeconfig.cache
+D:\桌面\C#进阶\C#进阶——俄罗斯方块\obj\Debug\net10.0\ref\C#进阶——俄罗斯方块.dll
+D:\桌面\C# and Unity\C#进阶\C#进阶——俄罗斯方块\bin\Debug\net10.0\C#进阶——俄罗斯方块.exe
+D:\桌面\C# and Unity\C#进阶\C#进阶——俄罗斯方块\bin\Debug\net10.0\C#进阶——俄罗斯方块.deps.json
+D:\桌面\C# and Unity\C#进阶\C#进阶——俄罗斯方块\bin\Debug\net10.0\C#进阶——俄罗斯方块.runtimeconfig.json
+D:\桌面\C# and Unity\C#进阶\C#进阶——俄罗斯方块\bin\Debug\net10.0\C#进阶——俄罗斯方块.dll
+D:\桌面\C# and Unity\C#进阶\C#进阶——俄罗斯方块\bin\Debug\net10.0\C#进阶——俄罗斯方块.pdb
+D:\桌面\C# and Unity\C#进阶\C#进阶——俄罗斯方块\obj\Debug\net10.0\C#进阶——俄罗斯方块.GeneratedMSBuildEditorConfig.editorconfig
+D:\桌面\C# and Unity\C#进阶\C#进阶——俄罗斯方块\obj\Debug\net10.0\C#进阶——俄罗斯方块.AssemblyInfoInputs.cache
+D:\桌面\C# and Unity\C#进阶\C#进阶——俄罗斯方块\obj\Debug\net10.0\C#进阶——俄罗斯方块.AssemblyInfo.cs
+D:\桌面\C# and Unity\C#进阶\C#进阶——俄罗斯方块\obj\Debug\net10.0\C#进阶——俄罗斯方块.csproj.CoreCompileInputs.cache
+D:\桌面\C# and Unity\C#进阶\C#进阶——俄罗斯方块\obj\Debug\net10.0\C#进阶——俄罗斯方块.dll
+D:\桌面\C# and Unity\C#进阶\C#进阶——俄罗斯方块\obj\Debug\net10.0\refint\C#进阶——俄罗斯方块.dll
+D:\桌面\C# and Unity\C#进阶\C#进阶——俄罗斯方块\obj\Debug\net10.0\C#进阶——俄罗斯方块.pdb
+D:\桌面\C# and Unity\C#进阶\C#进阶——俄罗斯方块\obj\Debug\net10.0\C#进阶——俄罗斯方块.genruntimeconfig.cache
+D:\桌面\C# and Unity\C#进阶\C#进阶——俄罗斯方块\obj\Debug\net10.0\ref\C#进阶——俄罗斯方块.dll
