@@ -76,6 +76,11 @@ namespace C_进阶__俄罗斯方块
 
         public void Draw()
         {
+            //如果在屏幕外就不用再绘制了
+            if (pos.y < 0)
+                return;
+
+
             Console.SetCursorPosition(pos.x,pos.y);
 
             switch (type)
@@ -108,13 +113,24 @@ namespace C_进阶__俄罗斯方块
         }
 
 
+        //添加一个清除绘制的方法
+        public void clearDraw()
+        {
+            if (pos.y < 0)
+                return;
+
+           Console.SetCursorPosition(pos.x,pos.y);
+            Console.Write("  ");
+        }
+
+
         /// <summary>
         /// 这是切换方块类型 主要用于板砖下落到地图时 把板砖类型变成墙壁类型
         /// </summary>
         /// <param name="type"></param>
         public void ChangeType(E_DrawType type)
         {
-
+            this.type = type;   
         }
     }
 }

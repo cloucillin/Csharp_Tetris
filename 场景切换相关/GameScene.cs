@@ -12,23 +12,23 @@ namespace C_进阶__俄罗斯方块
 
         BlockWorker blockWorker;
 
-        Thread? inputThread;
 
-        public static bool inputThreadIsRunning;
 
         //构造函数中new（实例化）一个map对象
         public GameScene()
         {
             map  = new Map(this);
             blockWorker = new BlockWorker();
-            
-            //设置输入线程
-            inputThread = new Thread(CheckInputThread);
 
-            //设置为后台线程 生命周期随主线程决定，主线程结束，所有后台线程跟着结束
-            inputThread.IsBackground = true;
-            //开启线程
-            inputThread.Start();
+            InputThread.Instance.inputEvent += CheckInputThread;
+
+            ////设置输入线程
+            //inputThread = new Thread(CheckInputThread);
+
+            ////设置为后台线程 生命周期随主线程决定，主线程结束，所有后台线程跟着结束
+            //inputThread.IsBackground = true;
+            ////开启线程
+            //inputThread.Start();
         }
 
         private void CheckInputThread()
@@ -80,10 +80,14 @@ namespace C_进阶__俄罗斯方块
             }
         }
 
+        /// <summary>
+        /// 停止线程
+        /// </summary>
         public void StopThread()
         {
-            inputThreadIsRunning = false;
-            inputThread = null;
+            //inputThreadIsRunning = false;
+            //inputThread = null;
+            InputThread.Instance.inputEvent -= CheckInputThread;
         }
 
         public void Update()

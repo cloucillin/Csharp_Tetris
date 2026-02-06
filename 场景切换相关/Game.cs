@@ -40,6 +40,8 @@ namespace C_进阶__俄罗斯方块
         /// 把这个也设为static
         public static ISceneUpdate nowScene;
 
+
+
         public Game()
         {
             Console.CursorVisible = false;
